@@ -17,8 +17,8 @@ Key Weather Differences between June and December
 - The mode or the most frequently recorded daily temperature reading in June from 2010 to 2017 was 76F. Meanwhile, 71F was the most frequently recorded temperature reading in December from 2010 to 2016. 
 
 <p align="center">
-  <img src="Resources/june_temps_hist.png" width="45%" />
-  <img src="REsources/dec_temps_hist.png" width="45%" /> 
+  <img src="Resources/june_temps_hist.png" width="45%" /></img>
+  <img src="Resources/dec_temps_hist.png" width="45%" /></img>
 </p>
 
 # Summary
